@@ -12,3 +12,6 @@ Portfolio creation:
 2. Sections you want to display, in order
 3. Keep all social link in hand
 4. Relevant information
+
+Youtube Session Link: 
+https://www.youtube.com/watch?v=SYqeOWGW1l8
